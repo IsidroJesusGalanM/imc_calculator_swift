@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "54587078-personaje-de-dibujos-animados-de-niño-gordo-aptitud-dieta-el-hombre-gordo-de-pie-de-dibujos.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
